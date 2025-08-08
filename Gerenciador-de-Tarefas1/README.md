@@ -1,4 +1,4 @@
-# Gerenciador de Tarefas 📝
+# Gerenciador de Tarefas 
 
 O **Gerenciador de Tarefas PRO** é uma aplicação desktop em **Python** com **interface Tkinter** que ajuda a organizar atividades diárias.
 
